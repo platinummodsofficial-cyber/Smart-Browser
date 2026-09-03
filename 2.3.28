@@ -1,4 +1,4 @@
-invoke-static {p0}, {
+{
   "enabled": true,
   "force_update": false,
   "credit": "MR. NoOB",
